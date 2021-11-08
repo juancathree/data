@@ -1,657 +1,657 @@
 [
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Colosseum",
-      es: "Coliseo de Roma",
+    "name": {
+      "en": "Colosseum",
+      "es": "Coliseo de Roma"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4922309, 41.8902102],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4922309, 41.8902102]
     },
-    information: {
-      en: "Iconic ancient Roman gladiatorial arena",
-      es: "Antiguo estadio romano de gladiadores",
+    "information": {
+      "en": "Iconic ancient Roman gladiatorial arena",
+      "es": "Antiguo estadio romano de gladiadores"
     },
-    visit: {
-      all: 3.01,
-      outside: 1.01,
+    "visit": {
+      "all": 3.01,
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 1,
+    "priority": 1
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Roman Forum & Palatine Hill",
-      es: "Foro Romano y Monte Palatino",
+    "name": {
+      "en": "Roman Forum & Palatine Hill",
+      "es": "Foro Romano y Monte Palatino"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.485325, 41.8924623],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.485325, 41.8924623]
     },
-    information: {
-      en: "Excavated heart of the Roman Empire",
-      es: "Corazón del Imperio romano excavado",
+    "information": {
+      "en": "Excavated heart of the Roman Empire",
+      "es": "Corazón del Imperio romano excavado"
     },
-    visit: {
-      all: 3.01,
+    "visit": {
+      "all": 3.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 3,
+    "priority": 3
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Circus Maximus",
-      es: "Circo Máximo",
+    "name": {
+      "en": "Circus Maximus",
+      "es": "Circo Máximo"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4851335, 41.8861334],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4851335, 41.8861334]
     },
-    information: {
-      en: "Stone arena for vast Roman assemblies",
-      es: "Estadio de piedra para asambleas romanas",
+    "information": {
+      "en": "Stone arena for vast Roman assemblies",
+      "es": "Estadio de piedra para asambleas romanas"
     },
-    visit: {
-      outside: 1.01,
+    "visit": {
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 14,
+    "priority": 14
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Pantheon",
-      es: "Panteón de Roma",
+    "name": {
+      "en": "Pantheon",
+      "es": "Panteón de Roma"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4768729, 41.8986108],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4768729, 41.8986108]
     },
-    information: {
-      en: "Landmark Roman church & historic tombs",
-      es: "Iglesia romana y tumbas históricas",
+    "information": {
+      "en": "Landmark Roman church & historic tombs",
+      "es": "Iglesia romana y tumbas históricas"
     },
-    visit: {
-      outside: 1.5,
+    "visit": {
+      "outside": 1.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 6,
+    "priority": 6
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "St. Peter's Basilica",
-      es: "Basílica de San Pedro",
+    "name": {
+      "en": "St. Peter's Basilica",
+      "es": "Basílica de San Pedro"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4539367, 41.9021667],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4539367, 41.9021667]
     },
-    information: {
-      en: "World’s largest basilica of Christianity",
-      es: "Mayor basílica cristiana del mundo",
+    "information": {
+      "en": "World’s largest basilica of Christianity",
+      "es": "Mayor basílica cristiana del mundo"
     },
-    visit: {
-      all: 2.01,
-      outside: 0.75,
+    "visit": {
+      "all": 2.01,
+      "outside": 0.75
     },
-    category: {
-      en: "Church",
-      es: "Iglesia",
+    "category": {
+      "en": "Church",
+      "es": "Iglesia"
     },
-    priority: 7,
+    "priority": 7
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Sistine Chapel & Vatican Museums",
-      es: "Capilla Sixtina y Museo Vaticano",
+    "name": {
+      "en": "Sistine Chapel & Vatican Museums",
+      "es": "Capilla Sixtina y Museo Vaticano"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4544835, 41.9029468],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4544835, 41.9029468]
     },
-    information: {
-      en: "Michelangelo's iconic painted ceiling and renaissance art treasures",
-      es: "Icónica bóveda pintada por Miguel Ángel y arte renacentista",
+    "information": {
+      "en": "Michelangelo's iconic painted ceiling and renaissance art treasures",
+      "es": "Icónica bóveda pintada por Miguel Ángel y arte renacentista"
     },
-    visit: {
-      all: 3.01,
+    "visit": {
+      "all": 3.01
     },
-    category: {
-      en: "Museum",
-      es: "Museo",
+    "category": {
+      "en": "Museum",
+      "es": "Museo"
     },
-    priority: 4,
+    "priority": 4
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Trevi Fountain",
-      es: "Fontana di Trevi",
+    "name": {
+      "en": "Trevi Fountain",
+      "es": "Fontana di Trevi"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.483313, 41.9009325],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.483313, 41.9009325]
     },
-    information: {
-      en: "Iconic 18th-century sculpted fountain",
-      es: "Simbólica fuente esculpida del s. XVIII",
+    "information": {
+      "en": "Iconic 18th-century sculpted fountain",
+      "es": "Simbólica fuente esculpida del s. XVIII"
     },
-    visit: {
-      outside: 1.01,
+    "visit": {
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 2,
+    "priority": 2
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Castel Sant'Angelo",
-      es: "Castillo de Sant'Angelo",
+    "name": {
+      "en": "Castel Sant'Angelo",
+      "es": "Castillo de Sant'Angelo"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.466276, 41.9030632],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.466276, 41.9030632]
     },
-    information: {
-      en: "2nd-century cylindrical castle & museum",
-      es: "Castillo cilíndrico del siglo II y museo",
+    "information": {
+      "en": "2nd-century cylindrical castle & museum",
+      "es": "Castillo cilíndrico del siglo II y museo"
     },
-    visit: {
-      all: 2.01,
-      outside: 1.01,
+    "visit": {
+      "all": 2.01,
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 12,
+    "priority": 12
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Altar of the Fatherland",
-      es: "Monumento a Víctor Manuel II",
+    "name": {
+      "en": "Altar of the Fatherland",
+      "es": "Monumento a Víctor Manuel II"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4825739, 41.8957663],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4825739, 41.8957663]
     },
-    information: {
-      en: "White marble memorial monument",
-      es: "Templo conmemorativo de mármol blanco",
+    "information": {
+      "en": "White marble memorial monument",
+      "es": "Templo conmemorativo de mármol blanco"
     },
-    visit: {
-      all: 2.01,
-      outside: 1.01,
+    "visit": {
+      "all": 2.01,
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 9,
+    "priority": 9
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Spanish Steps",
-      es: "Escaleras de la Plaza de España",
+    "name": {
+      "en": "Spanish Steps",
+      "es": "Escaleras de la Plaza de España"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.482327, 41.9056978],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.482327, 41.9056978]
     },
-    information: {
-      en: "Iconic baroque stairway & meeting place",
-      es: "Escalinata barroca y lugar de reunión",
+    "information": {
+      "en": "Iconic baroque stairway & meeting place",
+      "es": "Escalinata barroca y lugar de reunión"
     },
-    visit: {
-      outside: 1.01,
+    "visit": {
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 10,
+    "priority": 10
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Piazza Navona",
-      es: "Plaza Navona",
+    "name": {
+      "en": "Piazza Navona",
+      "es": "Plaza Navona"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4730742, 41.8991633],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4730742, 41.8991633]
     },
-    information: {
-      en: "Elegant square with fountains & bars",
-      es: "Plaza elegante con fuentes y bares",
+    "information": {
+      "en": "Elegant square with fountains & bars",
+      "es": "Plaza elegante con fuentes y bares"
     },
-    visit: {
-      outside: 4.5,
+    "visit": {
+      "outside": 4.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 5,
+    "priority": 5
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Piazza del Popolo",
-      es: "Plaza del Pópolo",
+    "name": {
+      "en": "Piazza del Popolo",
+      "es": "Plaza del Pópolo"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4763579, 41.9107038],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4763579, 41.9107038]
     },
-    information: {
-      en: "Landmark square by city's northern gate",
-      es: "Plaza emblemática junto a la puerta norte de la ciudad",
+    "information": {
+      "en": "Landmark square by city's northern gate",
+      "es": "Plaza emblemática junto a la puerta norte de la ciudad"
     },
-    visit: {
-      outside: 1.01,
+    "visit": {
+      "outside": 1.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 11,
+    "priority": 11
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Villa Borghese",
-      es: "Villa Borghese",
+    "name": {
+      "en": "Villa Borghese",
+      "es": "Villa Borghese"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4852085, 41.9128873],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4852085, 41.9128873]
     },
-    information: {
-      en: "Grand 17th-century house & gardens",
-      es: "Mansión del siglo XVII y jardines",
+    "information": {
+      "en": "Grand 17th-century house & gardens",
+      "es": "Mansión del siglo XVII y jardines"
     },
-    visit: {
-      outside: 2.01,
+    "visit": {
+      "outside": 2.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 20,
+    "priority": 20
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Borghese Gallery and Museum",
-      es: "Museo Borghese",
+    "name": {
+      "en": "Borghese Gallery and Museum",
+      "es": "Museo Borghese"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4921442, 41.9142103],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4921442, 41.9142103]
     },
-    information: {
-      en: "Renaissance art masterpiece collection",
-      es: "Colección de obras de arte renacentista",
+    "information": {
+      "en": "Renaissance art masterpiece collection",
+      "es": "Colección de obras de arte renacentista"
     },
-    visit: {
-      all: 2.01,
+    "visit": {
+      "all": 2.01
     },
-    category: {
-      en: "Museum",
-      es: "Museo",
+    "category": {
+      "en": "Museum",
+      "es": "Museo"
     },
-    priority: 21,
+    "priority": 21
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Campo dei Fiori",
-      es: "Campo dei Fiori",
+    "name": {
+      "en": "Campo dei Fiori",
+      "es": "Campo dei Fiori"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4721829, 41.8955904],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4721829, 41.8955904]
     },
-    information: {
-      en: "Bustling produce market in public square",
-      es: "Bullicioso mercado de productos agrícolas en plaza pública",
+    "information": {
+      "en": "Bustling produce market in public square",
+      "es": "Bullicioso mercado de productos agrícolas en plaza pública"
     },
-    visit: {
-      outside: 0.75,
+    "visit": {
+      "outside": 0.75
     },
-    category: {
-      en: "Market",
-      es: "Mercado",
+    "category": {
+      "en": "Market",
+      "es": "Mercado"
     },
-    priority: 22,
+    "priority": 22
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Campidoglio",
-      es: "Campidoglio",
+    "name": {
+      "en": "Campidoglio",
+      "es": "Campidoglio"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4828018, 41.8933592],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4828018, 41.8933592]
     },
-    information: {
-      en: "Michelangelo-designed hilltop square",
-      es: "Plaza diseñada por Miguel Ángel",
+    "information": {
+      "en": "Michelangelo-designed hilltop square",
+      "es": "Plaza diseñada por Miguel Ángel"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 13,
+    "priority": 13
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Basilica Papale di Santa Maria Maggiore",
-      es: "Santa Maria della Neve",
+    "name": {
+      "en": "Basilica Papale di Santa Maria Maggiore",
+      "es": "Santa Maria della Neve"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4984084, 41.8975986],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4984084, 41.8975986]
     },
-    information: {
-      en: "5th-century church with a gilded ceiling",
-      es: "Iglesia del siglo V con techo dorado",
+    "information": {
+      "en": "5th-century church with a gilded ceiling",
+      "es": "Iglesia del siglo V con techo dorado"
     },
-    visit: {
-      all: 1.01,
-      outside: 0.75,
+    "visit": {
+      "all": 1.01,
+      "outside": 0.75
     },
-    category: {
-      en: "Church",
-      es: "Iglesia",
+    "category": {
+      "en": "Church",
+      "es": "Iglesia"
     },
-    priority: 15,
+    "priority": 15
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Capitoline Museums",
-      es: "Museos Capitolinos",
+    "name": {
+      "en": "Capitoline Museums",
+      "es": "Museos Capitolinos"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4825577, 41.8929428],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4825577, 41.8929428]
     },
-    information: {
-      en: "15th-century museum of Roman antiquities",
-      es: "Museos con obras de la época clásica",
+    "information": {
+      "en": "15th-century museum of Roman antiquities",
+      "es": "Museos con obras de la época clásica"
     },
-    visit: {
-      all: 2.01,
+    "visit": {
+      "all": 2.01
     },
-    category: {
-      en: "Museum",
-      es: "Museo",
+    "category": {
+      "en": "Museum",
+      "es": "Museo"
     },
-    priority: 8,
+    "priority": 8
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Baths of Caracalla",
-      es: "Termas de Caracalla",
+    "name": {
+      "en": "Baths of Caracalla",
+      "es": "Termas de Caracalla"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4924394, 41.8790382],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4924394, 41.8790382]
     },
-    information: {
-      en: "Ruins of a vast Roman bath complex",
-      es: "Ruinas de unas enormes termas romanas",
+    "information": {
+      "en": "Ruins of a vast Roman bath complex",
+      "es": "Ruinas de unas enormes termas romanas"
     },
-    visit: {
-      all: 2.01,
+    "visit": {
+      "all": 2.01
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 19,
+    "priority": 19
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Arch of Constantine",
-      es: "Arco de Constantino",
+    "name": {
+      "en": "Arch of Constantine",
+      "es": "Arco de Constantino"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4906017, 41.8897697],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4906017, 41.8897697]
     },
-    information: {
-      en: "Grand Roman arch built in 315",
-      es: "Imponente arco romano del año 315",
+    "information": {
+      "en": "Grand Roman arch built in 315",
+      "es": "Imponente arco romano del año 315"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 23,
+    "priority": 23
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Mouth of Truth",
-      es: "Bocca della Verità",
+    "name": {
+      "en": "Mouth of Truth",
+      "es": "Bocca della Verità"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4813948, 41.888133],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4813948, 41.888133]
     },
-    information: {
-      en: "Mythical stone carving of a man's face",
-      es: "Mítica talla de piedra del rostro de un hombre",
+    "information": {
+      "en": "Mythical stone carving of a man's face",
+      "es": "Mítica talla de piedra del rostro de un hombre"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 25,
+    "priority": 25
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Trajan's Market",
-      es: "Mercado de Trajano",
+    "name": {
+      "en": "Trajan's Market",
+      "es": "Mercado de Trajano"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4862481, 41.8956413],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4862481, 41.8956413]
     },
-    information: {
-      en: "Restored Roman city forum complex",
-      es: "Complejo comercial de la época romana",
+    "information": {
+      "en": "Restored Roman city forum complex",
+      "es": "Complejo comercial de la época romana"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 17,
+    "priority": 17
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Trajan's Column",
-      es: "Columna de Trajano",
+    "name": {
+      "en": "Trajan's Column",
+      "es": "Columna de Trajano"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4842587, 41.8958067],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4842587, 41.8958067]
     },
-    information: {
-      en: "Roman triumphal column & public platform",
-      es: "Columna romana con mirador",
+    "information": {
+      "en": "Roman triumphal column & public platform",
+      "es": "Columna romana con mirador"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 18,
+    "priority": 18
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Pyramid of Caius Cestius",
-      es: "Pirámide de Cayo Cestio",
+    "name": {
+      "en": "Pyramid of Caius Cestius",
+      "es": "Pirámide de Cayo Cestio"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4810241, 41.8764448],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4810241, 41.8764448]
     },
-    information: {
-      en: "Egyptian pyramid tomb built by Romans",
-      es: "Tumba piramidal egipcia construida por romanos",
+    "information": {
+      "en": "Egyptian pyramid tomb built by Romans",
+      "es": "Tumba piramidal egipcia construida por romanos"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 24,
+    "priority": 24
   },
   {
-    city: {
-      en: "Rome",
-      es: "Roma",
+    "city": {
+      "en": "Rome",
+      "es": "Roma"
     },
-    name: {
-      en: "Marcello Theater",
-      es: "Teatro Marcello",
+    "name": {
+      "en": "Marcello Theater",
+      "es": "Teatro Marcello"
     },
-    location: {
-      type: "Point",
-      coordinates: [12.4799083, 41.8919308],
+    "location": {
+      "type": "Point",
+      "coordinates": [12.4799083, 41.8919308]
     },
-    information: {
-      en: "Roman theater with summer festival",
-      es: "Teatro romano con festival de verano",
+    "information": {
+      "en": "Roman theater with summer festival",
+      "es": "Teatro romano con festival de verano"
     },
-    visit: {
-      outside: 0.5,
+    "visit": {
+      "outside": 0.5
     },
-    category: {
-      en: "Historical Monument",
-      es: "Monumento Histórico",
+    "category": {
+      "en": "Historical Monument",
+      "es": "Monumento Histórico"
     },
-    priority: 16,
-  },
+    "priority": 16
+  }
 ]
